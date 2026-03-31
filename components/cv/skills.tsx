@@ -27,6 +27,7 @@ const skillCategories = [
     title: "Backend & Database",
     skills: [
       "Node.js",
+      "Next.js",
       "MySQL",
     ],
   },
