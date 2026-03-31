@@ -14,7 +14,7 @@ const experiences = [
       "Integrated REST APIs to display real-time system status, workload execution data, and operational metrics",
       "Wrote unit and end-to-end tests using Cypress to ensure stability and reliability",
     ],
-    technologies: ["Vue.js", "Vuetify", "Vuex", "Axios", "REST APIs", "Cypress"],
+    technologies: ["Vue.js", "Vuetify", "Vuex", "Axios", "REST APIs", "Cypress", "Node.js"],
     link: "#",
   },
   {
@@ -30,7 +30,7 @@ const experiences = [
       "Maintained the REST API backend using Node.js for seamless frontend-backend communication",
       "Implemented WebSocket communication to enable real-time data updates",
     ],
-    technologies: ["React.js", "Angular.js", "WebSocket", "REST APIs"],
+    technologies: ["React.js", "Angular.js", "WebSocket", "REST APIs", "Node.js", "Next.js"],
     link: "#",
   },
   {
@@ -44,7 +44,7 @@ const experiences = [
       "Improved system efficiency by enabling independent control of heating and energy usage per zone",
       "Collaborated with senior developers to understand and extend a complex, real-world codebase",
     ],
-    technologies: ["Angular.js", "JavaScript", "MySQL"],
+    technologies: ["Angular.js", "JavaScript", "MySQL", "Node.js"],
     link: "#",
 }
 ]
